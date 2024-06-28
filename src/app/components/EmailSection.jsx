@@ -52,7 +52,7 @@ const EmailSection = () => {
         </h5>
         <p className="text-[#ADB7BE] mb-4 max-w-md">
           {" "}
-          I&apos;m currently looking for new opportunities, my inbox is always
+          I am currently looking for new opportunities, my inbox is always
           open."Whether you have a question, comment, or just want to say hello, 
            contact form is the best way to reach . I am looking forward to connecting with you!
 
