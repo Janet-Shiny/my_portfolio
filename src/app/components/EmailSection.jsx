@@ -48,16 +48,12 @@ const EmailSection = () => {
       <div className="bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-blue to-transparent rounded-3xl h-80 w-80 z-0 blur-lg absolute top-3/4 -left-4 transform -translate-x-1/2 -translate-1/2"></div>
       <div className="z-10">
         <h5 className="text-xl font-bold text-white my-2">
-          Let's Connectnpm run dev
-          
+          Let&apos;s Connect
         </h5>
         <p className="text-[#ADB7BE] mb-4 max-w-md">
-          {" "}
           I am currently looking for new opportunities, my inbox is always
-          open."Whether you have a question, comment, or just want to say hello, 
-           contact form is the best way to reach . I am looking forward to connecting with you!
-
-
+          open. Whether you have a question, comment, or just want to say hello, 
+          the contact form is the best way to reach me. I am looking forward to connecting with you!
         </p>
         <div className="socials flex flex-row gap-2">
           <Link href="https://github.com/Janet-Shiny">
@@ -67,7 +63,7 @@ const EmailSection = () => {
             <Image src={LinkedinIcon} alt="Linkedin Icon" />
           </Link>
           <Link href="https://www.instagram.com/shiny__512?igsh=MXN2dXMyODA5N3g5dg==">
-            <Image src={insta} alt="insta Icon" />
+            <Image src={insta} alt="Instagram Icon" />
           </Link>
         </div>
       </div>
@@ -120,8 +116,8 @@ const EmailSection = () => {
               <textarea
                 name="message"
                 id="message"
-                className="bg-[#18191E] border border-[#33353F] placeholder-[#9CA2A9] text-gray-100 text-sm rounded-lg block w-full p-2.5 "
-                placeholder="Let's talk about..."
+                className="bg-[#18191E] border border-[#33353F] placeholder-[#9CA2A9] text-gray-100 text-sm rounded-lg block w-full p-2.5"
+                placeholder="Let&apos;s talk about..."
               />
             </div>
             <button
