@@ -43,7 +43,7 @@ const projectsData = [
   },
   {
     id: 5,
-    title: "Calculator",
+    title: "Landing page",
     // description: "Authentication and CRUD operations",
     image: "/images/projects/5.png",
     tag: ["Projects"],
