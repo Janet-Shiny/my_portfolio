@@ -2,7 +2,7 @@
 import React, { useState } from "react";
 import GithubIcon from "../../../public/github-icon.svg";
 import LinkedinIcon from "../../../public/linkedin-icon.svg";
-import insta from "../../../public/insta-icon.svg";
+import Leetcode from "../../../public/Leetcode.svg";
 import Link from "next/link";
 import Image from "next/image";
 
@@ -59,12 +59,13 @@ const EmailSection = () => {
           <Link href="https://github.com/Janet-Shiny">
             <Image src={GithubIcon} alt="Github Icon" />
           </Link>
-          <Link href="https://www.linkedin.com/in/shiny-vincent-7bb87a256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+          <Link href="https://www.linkedin.com/in/janetshiny-v/">
             <Image src={LinkedinIcon} alt="Linkedin Icon" />
           </Link>
-          <Link href="https://www.instagram.com/shiny__512?igsh=MXN2dXMyODA5N3g5dg==">
-            <Image src={insta} alt="Instagram Icon" />
+          <Link href="https://www.linkedin.com/in/janetshiny-v/">
+            <Image src={Leetcode} alt="Leetcode Icon" />
           </Link>
+
         </div>
       </div>
       <div>

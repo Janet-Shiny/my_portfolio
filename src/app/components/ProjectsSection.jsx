@@ -34,7 +34,7 @@ const projectsData = [
   },
   {
     id: 4,
-    title: "Birthday Invite Template",
+    title: "View Ai",
     // description: "Project 4 description",
     image: "/images/projects/4.png",
     tag: ["Projects"],
